@@ -1,13 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  id: 
   title: MyString
-  description: MyText
+  description: MyString
   buydate: 2012-12-28
 
 two:
-  id: 
   title: MyString
-  description: MyText
+  description: MyString
   buydate: 2012-12-28

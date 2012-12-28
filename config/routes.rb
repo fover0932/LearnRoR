@@ -1,6 +1,6 @@
 MyBook2::Application.routes.draw do
-  resources :books
 
+  resources :books
 
   get "welcome/index"
   
